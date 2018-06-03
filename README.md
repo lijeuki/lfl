@@ -1,7 +1,7 @@
 # lfl
 Login LFL Cyclone Media
 
-Script berguna untuk Login diwebsite lfl.cyclone.web.id
+Script berguna untuk Login diwebsite lfl.lijeuki.co
 
 Tutorial penggunaan di android
 
