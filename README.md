@@ -1,5 +1,5 @@
 # lfl
-Login LFL Cyclone Media
+Login LFL Lijeuki.co
 
 Script berguna untuk Login diwebsite lfl.lijeuki.co
 
